@@ -1,0 +1,22 @@
+# Private Local Source Code & Config (Kept only on your PC)
+bot.py
+requirements.txt
+test_bot.py
+diagnose_voice.py
+APP_DIRECTORY_GUIDE.md
+DESCRIPTIONS.md
+.env
+.env.example
+*.env
+
+# Audio & Runtime Artifacts
+*.mp3
+*.wav
+tts*.mp3
+
+# Python Caches & Environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.log
